@@ -1,6 +1,5 @@
-<!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/tenor.gif" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" />
 </div>
 
 ###
