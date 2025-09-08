@@ -1,6 +1,6 @@
-<!-- Banner / GIF -->
+<!-- Banner -->
 <div align="center">
-  <img src="https://datascienceathome.com/wp-content/uploads/2023/12/programmer.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600" />
 </div>
 
 ###
@@ -28,9 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## 🛠️ Tech Stack  
 
 ### Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -54,11 +52,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
 
-</div>
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pravinkumar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
@@ -67,14 +63,14 @@
 
 ---
 
-## 🌱 What I'm Currently Learning
+## 🌱 What I'm Currently Learning  
 - Advanced **Flutter + Firebase**  
 - Exploring **React with Tailwind CSS**  
 - Diving deeper into **Cloud Computing & DevOps basics**  
 
 ---
 
-## ✨ Quote I Live By
+## ✨ Quote I Live By  
 > *"The best way to predict the future is to create it."*  
 
 ---
