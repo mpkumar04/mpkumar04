@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVwbzR0dzIxYWRuZjR2Z2dmOXpyaW80bTJ0NjRrYTZ2Nnh5ZnUzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="600" alt="Minimal Coding GIF" />
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Professional Developer GIF" />
 
 </div>
 
