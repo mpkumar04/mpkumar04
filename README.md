@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600" alt="Typing Developer GIF" />
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Professional Developer GIF" />
 </div>
 
 ###
