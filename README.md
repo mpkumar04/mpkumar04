@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRzdXJuYzYxM2F3Mmt2dG55bWg2MWY3bHBxM3g3NWdzdzFnOHJ0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vzO0Vc8b2VBLi/giphy.gif" width="600" alt="Coding Neon GIF" />
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ1bjNqbm81YmI2OXkyaWQ0c3psdzVndmM2cGkwbnc1ZXNsZzFmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3fQ6X0Oz4s3s/giphy.gif" width="600" alt="Futuristic Tech GIF" />
+alt="Coding Neon GIF" />
 
 </div>
 
