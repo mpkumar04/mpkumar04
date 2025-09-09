@@ -49,7 +49,7 @@
 ---
 
 ## 🌱 What I'm Currently Learning  
-- Advanced **Flutter + Firebase**  
+- Intermediate **Flutter + Firebase**  
 - Exploring **React with Tailwind CSS**  
 - Diving deeper into **Cloud Computing & DevOps basics**  
 
