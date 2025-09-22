@@ -27,27 +27,6 @@
 
 ---
 
-## 🧑‍💼 Featured Project – MERN Employee Management System
-
-A full-stack web application to manage employees, track attendance, and visualize department analytics using **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
-
-### Features
-- **Employee CRUD** – Create, Read, Update, Delete employee records  
-- **Attendance Tracking** – Monitor daily attendance  
-- **Salary Insights** – View and analyze salary data  
-- **Department Analytics** – Visualize department-wise data using interactive charts  
-
-### Tech Stack
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Charts:** Recharts  
-
-### Live Demo / Repo
-- GitHub Repo: [MERN Employee Management System](https://github.com/mpkumar04/MERN-Employee-Management-System)  
-
----
-
 ## 🛠️ My Tech Stack  
 
 ### 🌐 Languages & Frameworks  
