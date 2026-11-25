@@ -1,6 +1,6 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:1E1B4B,100:0EA5E9&height=260&section=header&text=Pravin%20Kumar&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Flutter%20%C2%B7%20React%20%C2%B7%20Full-Stack%20in%20the%20making&descSize=18&descAlignY=62&descColor=CBD5E1" width="100%" alt="Pravin Kumar banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E1B4B,100:0EA5E9&height=240&section=header&text=Pravin%20Kumar&fontSize=64&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Flutter%20%C2%B7%20React%20%C2%B7%20Full-Stack%20in%20the%20making&descSize=18&descAlignY=62&descColor=CBD5E1" width="100%" alt="Pravin Kumar banner" />
 </div>
 
 <div align="center">
@@ -137,11 +137,9 @@ const pravin = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mpkumar04&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=FFFFFF" width="100%" alt="Activity graph" />
 </div>
 
-### 🏆 Trophies & Achievements
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mpkumar04&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies" />
-  <br/><br/>
   <img src="https://img.shields.io/badge/🦈_Pull_Shark-×2-0EA5E9?style=flat-square" alt="Pull Shark" />
   <img src="https://img.shields.io/badge/🤠_YOLO-Earned-7C3AED?style=flat-square" alt="YOLO" />
   <img src="https://img.shields.io/badge/⚡_Quickdraw-Earned-38BDF8?style=flat-square" alt="Quickdraw" />
